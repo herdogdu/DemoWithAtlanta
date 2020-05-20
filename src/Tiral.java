@@ -9,7 +9,7 @@ public class Tiral {
 
         System.out.println("merhaba12");
 
-
+     //
 
         System.out.println("Hello Atlantabbbb");
 
