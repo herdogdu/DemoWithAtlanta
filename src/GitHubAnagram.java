@@ -41,7 +41,7 @@ public class GitHubAnagram {
 		Example: listen and silent
 
 		 */
-        String str1="anagran";
+        String str1= "anagran";
         String str2="gramana";
         int count2=0;
         int count1=0;
