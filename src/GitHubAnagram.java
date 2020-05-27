@@ -42,7 +42,7 @@ public class GitHubAnagram {
 
 		 */
         String str1= "anagran";
-        String str2="gramana";
+        String str2= "gramana";
         int count2=0;
         int count1=0;
         int count=0;
@@ -60,7 +60,7 @@ public class GitHubAnagram {
 
             }
 
-            }
+              }
          if (count<str1.length()-1)
          System.out.println(str1+ " and "+str2+ " are \"anagram\": " + false);
          else System.out.println(str1+" and "+str2+ " are \"anagram\": " + true);
