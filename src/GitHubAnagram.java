@@ -59,7 +59,6 @@ public class GitHubAnagram {
                 }  if(count1!=count2) break OUTER;
                 count=i;
             }
-
               }
          if (count<str1.length()-1)
          System.out.println(str1+ " and "+str2+ " are \"anagram\": " + false);
